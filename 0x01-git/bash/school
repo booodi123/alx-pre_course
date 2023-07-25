@@ -1,9 +1,2 @@
 #!/bin/bash
-echo "School"
-^c
-^C
-^ C
-^C
-clear
-
-
+echo "school"
